@@ -77,6 +77,6 @@ The first and second runs use different units and scope. Their test counts do no
 
 ## About the product line
 
-ASDS means Agentic Software Delivery System. Current public product pages: [Startup](https://monisarek.gumroad.com/l/startup), [Finish](https://monisarek.gumroad.com/l/finish), [QA](https://monisarek.gumroad.com/l/qa), and the optional [Critic](https://monisarek.gumroad.com/l/critic).
+ASDS means Agentic Software Delivery System. Current public product pages: [Startup](https://monisarek.gumroad.com/l/startup), [Finish](https://monisarek.gumroad.com/l/finish), [QA](https://monisarek.gumroad.com/l/qa), [Release](https://monisarek.gumroad.com/l/release), and the optional [Critic](https://monisarek.gumroad.com/l/critic).
 
-Release is **NOT PUBLISHED**. A bundle **DOES NOT EXIST**. This repository publishes case-study material, not the commercial skill packages.
+All five individual products are published. A lifecycle bundle has been prepared locally; no live bundle offer is claimed. This repository contains case-study material; commercial skill packages are distributed separately.

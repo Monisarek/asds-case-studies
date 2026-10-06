@@ -10,7 +10,7 @@ The first run completed Startup and reached a Finish product candidate. QA detec
 
 The handoff failure was a real Finish → QA compatibility defect, not a missing product feature or an early governance stop. Downstream QA challenged what the upstream stage supplied. Repairing the document roles restored intake, but did not erase the original rejection.
 
-The functional results did not grant release acceptance. The audit finding involved braces 3.0.3 through Stylelint/micromatch development tooling. The retained reports distinguish one root advisory and seven affected dependency findings, rather than seven demonstrated exploits. No HookScope runtime exploit was demonstrated. The investigated upstream resolutions supplied no substantiated compatible clean-audit path under the frozen contract; this does not prove that no custom solution could ever exist.
+The functional results did not grant release acceptance. The audit finding involved braces 3.0.3 through Stylelint/micromatch development tooling. The retained reports distinguish one root advisory and seven affected dependency findings, rather than seven demonstrated exploits. No HookScope runtime exploit was demonstrated. The investigated upstream resolutions did not provide a compatible clean-audit path under the frozen contract.
 
 Finish preserved the passed observations and investigated the blocker without pretending a failed mandatory audit had passed. The frozen contract did not authorize dropping the tool, suppressing the finding or silently accepting risk. The result was a policy deadlock: a completed functional candidate could not satisfy the release policy within the established repair scope.
 
@@ -32,6 +32,6 @@ Remote CI and optional trusted HTTPS success were not executed in the second run
 
 For someone using coding agents, the lesson is practical: a downstream acceptance stage must be able to challenge an upstream completion claim; evidence should survive interruptions; security findings need explicit finite decisions rather than silent waivers or permanent deadlocks; and delivery should preserve the candidate QA actually accepted. ASDS provides reusable structure around those boundaries. It complements your agent, CI and engineering judgment.
 
-If your current workflow already maintains these boundaries, ASDS may add little. If substantial agent work repeatedly loses its delivery state, evaluate the system against that recurring pain. Choose Startup for foundations or Finish for the agreed implementation scope, or choose QA when candidate acceptance is the gap.
+Choose the stage that addresses your workflow gap: Startup for the engineering foundation, Finish for completing agreed scope, QA for candidate acceptance, and Release for delivering accepted artifacts.
 
 [Return to the overview](README.md).
